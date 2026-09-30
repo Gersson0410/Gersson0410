@@ -16,6 +16,8 @@ Python · Google Colab · ARIMA/SARIMA · Random Forest · XGBoost · LSTM · Ch
 
 | Repositorio | Descripción |
 |---|---|
+| [AppEdificaciones_Calidad](https://github.com/Gersson0410/AppEdificaciones_Calidad) | App Android en Java para consultar edificaciones (Basílica de Yanahuara) |
+| [Dataset_Ant_Team](https://github.com/Gersson0410/Dataset_Ant_Team) | Cuaderno de Colab para preparar datos de temperatura y vacunación (IRAS) |
 | [Busq.Ind.Inv](https://github.com/Gersson0410/Busq.Ind.Inv) | Búsqueda por índice invertido con Map-Reduce en C++ |
 | [Wiki-Tarea](https://github.com/Gersson0410/Wiki-Tarea) | Wiki en Perl que traduce un subconjunto de Markdown a HTML con expresiones regulares |
 
