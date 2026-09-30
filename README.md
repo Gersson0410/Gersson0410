@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Gersson 👋
 
-<!--
-**Gersson0410/Gersson0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de último año de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa (UNSA), Perú. Me enfoco en ciencia de datos e inteligencia artificial y busco prácticas preprofesionales.
 
-Here are some ideas to get you started:
+## En qué trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Predicción de casos de neumonía en el Perú con series de tiempo y machine learning (tesis).
+- Búsqueda semántica y RAG con bases de datos vectoriales.
+- Aseguramiento de calidad de software y revisión sistemática de literatura.
+
+## Tecnologías
+
+Python · Google Colab · ARIMA/SARIMA · Random Forest · XGBoost · LSTM · ChromaDB · pgvector · FAISS · MongoDB Atlas · LangChain · PostgreSQL · PostGIS · Flutter · Supabase · C++ · Java · Perl
+
+## Repositorios destacados
+
+| Repositorio | Descripción |
+|---|---|
+| [Busq.Ind.Inv](https://github.com/Gersson0410/Busq.Ind.Inv) | Búsqueda por índice invertido con Map-Reduce en C++ |
+| [Wiki-Tarea](https://github.com/Gersson0410/Wiki-Tarea) | Wiki en Perl que traduce un subconjunto de Markdown a HTML con expresiones regulares |
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/gersson-andre-huichi-santander-119620202)
